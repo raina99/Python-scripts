@@ -19,6 +19,7 @@ Main Packages  required
 Beautiful soup - pip install beautifulsoup4
 
 Notify run - It is required to send push notifications
+
 Go through the link to install push notifications notify run
 Link - https://pypi.org/project/notify-run/
 
