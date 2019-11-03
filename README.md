@@ -12,6 +12,8 @@ This  script gives live cric score with batsmen batting ,bowler numbers of the p
 It is more parctical for a user to see live score and batsmen numbers on the go rather than looking at full scorecard
 This uses push notfications too  to inform user and user does not even need to click on as it is displayed silently
 
+Output- It is visible in Pythonic_cric_live_output.jpeg
+
 
 Main Packages  required
 
